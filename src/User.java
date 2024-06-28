@@ -1,4 +1,4 @@
-// User.java
+// User java file
 public class User {
     private String name;
     private TaskList toDoList;
